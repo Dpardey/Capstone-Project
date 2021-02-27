@@ -20,6 +20,27 @@ accurately return an score (probability). This credit default risk is what is th
 
 ### Files in the repository
 
-1. **application_test.zip**: 
+**1. application_train.zip**:
+     This is the dataset were all the analysis was established. It's in zip format because of the size. It's needed to unzip the dataset.
 
+**2. application_test.zip**: 
+     Dataset needed for submission in Kaggle. If the model wants to be scored with in kaggle, this table has all the same columns that application_train but without the target variable. This dataset is also en zipformat.
+    
+**3. HomeCredit_columns_description.csv**: 
+     Dataset containing the details about every column across all datasets.
+     
+**4. HomeCredit_logo.jpg**:
+     Home Credit logo
+     
+**5. MAE.gif**:
+     Median Absolute Error formula
+     
+**6. ROC_curve.png**:
+     ROC curve image
+    
+**7. Home Credit Default Risk.ipynb**:
+     Jupyter notebook containing all the analysis.
+     
+**8. Home Credit Default Risk.py**:
+     The same *Home Credit Default Risk.ipynb* file with .py format
 
