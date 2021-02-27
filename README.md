@@ -49,3 +49,6 @@ accurately return an score (probability). This credit default risk is what is th
      
 There is also a [Medium](https://pardey27.medium.com/home-credit-default-risk-f371b7e5291f) article that contains a guided summary for the project.
 
+
+Additionally, [here](https://github.com/Dpardey) is my Github account if you want to explore more of my projects! 
+
