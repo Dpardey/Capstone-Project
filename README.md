@@ -28,9 +28,6 @@ accurately return an score (probability). This credit default risk is what is th
 
 **3. application_test.zip**: 
      Dataset needed for submission in Kaggle. If the model wants to be scored with in kaggle, this table has all the same columns that application_train but without the target variable. This dataset is also en zipformat.
-     
-     
-There is also a [Medium](https://pardey27.medium.com/home-credit-default-risk-f371b7e5291f) article that contains a guided summary for the project.
     
 **4. HomeCredit_columns_description.csv**: 
      Dataset containing the details about every column across all datasets.
@@ -49,4 +46,6 @@ There is also a [Medium](https://pardey27.medium.com/home-credit-default-risk-f3
      
 **9. Home Credit Default Risk.py**:
      The same *Home Credit Default Risk.ipynb* file with .py format
+     
+There is also a [Medium](https://pardey27.medium.com/home-credit-default-risk-f371b7e5291f) article that contains a guided summary for the project.
 
